@@ -1,10 +1,20 @@
-# gentuu_admindashboard# 🎰 GENTUU - Poker Admin Dashboard v2.0
+# GENTUU Poker Admin Dashboard
 
-![Poker Admin Dashboard](https://via.placeholder.com/1200x600/0a0e27/94a3b3?text=GENTUU+Admin+v2.0)
+Complete poker room management system with AI players, live tables, analytics, and automation.
 
-**Complete single-file admin system for online poker platforms** 🚀
+## Features
+- 🤖 AI Player Management (156 active bots)
+- 🎥 Live Table Broadcasting with chat
+- 📊 Advanced Analytics & Heatmaps
+- 💰 Financial Center with crypto support
+- 🛡️ Security & Fraud Detection
+- ⚡ Multi-table Automation
 
-## ✨ **Live Demo**
-[![Demo](https://img.shields.io/badge/Live%20Demo-FF0080?style=for-the-badge&logo=github&logoColor=white)](https://yourusername.github.io/gentuu-admin-dashboard)
+## Live Demo
+https://yourusername.github.io/gentuu-admin
 
-## 🚀 **Features**
+## Tech Stack
+- HTML5 + Tailwind CSS
+- Chart.js for analytics
+- Lucide icons
+- Responsive design (Mobile + Desktop)
